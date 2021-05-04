@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Branham Codes](https://github.com/mattfbacon/BranhamCodes2), as well as other smaller projects.
+- 🔭 I’m currently working on [Haskell Airplane](https://github.com/mattfbacon/hs-airplane).
 - 🌱 I’m currently learning C, MongoDB, higher-level TypeScript, and functional programming principles.
 - 📚 I’m studying Japanese, German, and Spanish.
 - 💬 Ask me about Linux, webpage bloat, and the value of always learning new things.
