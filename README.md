@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a lot of stuff.
-- 🌱 I’m currently learning C, MongoDB, higher-level TypeScript, and functional programming principles.
+- 🌱 I’m currently learning low level multithreading and concurrency in C++.
 - 📚 I’m studying Japanese, German, and Spanish.
 - 💬 Ask me about Linux, webpage bloat, and the value of always learning new things.
 - ️🌈 Pronouns: He/Him
