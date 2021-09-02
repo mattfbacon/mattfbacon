@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a lot of stuff.
 - 🌱 I’m currently learning low level multithreading and concurrency in C++.
-- 📚 I’m studying Japanese, German, and Spanish.
+- 📚 I’m studying Japanese, German, Spanish, and Lojban.
 - 💬 Ask me about Linux, webpage bloat, and the value of always learning new things.
 - ️🌈 Pronouns: He/Him
 - ⚡ Fun fact: All of the top 500 supercomputers run Linux!
