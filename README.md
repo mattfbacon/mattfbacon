@@ -3,7 +3,7 @@ All new projects/repos are on my Git server at <https://git.mattfellenz.be>.
 ### Hi there 👋
 
 - 🔭 I’m currently working on a lot of stuff.
-- 🌱 I’m currently learning low level multithreading and concurrency in C++.
+- 🌱 I’m currently learning Rust.
 - 📚 I’m studying Japanese, German, Spanish, and Lojban.
 - 💬 Ask me about Linux, webpage bloat, and the value of always learning new things.
 - ️🌈 Pronouns: He/Him
