@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning the MessagEase keyboard layout on my phone.
 - 📚 I’m studying Japanese, German, Spanish, and Lojban. .i xu do se jbobau .i iu ko co'a irci la'o ibu #lojban ibu la liberas ja [la diskord](https://discord.gg/BVm4EYR)
 - 💬 Ask me about Linux, Rust, and the value of always learning new things.
-- ️🌈 My <pronoun.is/he>
+- ️🌈 My <https://pronoun.is/he>
 - ⚡ Fun fact: Microsoft Azure runs on Linux
 
 `++++++++++[>++++++++++<-]>+++.<+++[>--<-]>.<+++++[>+++++<-]>-.>++++[>++++++++<-]>.>++++++++++[>++++++++++<-]>---.+++++.<<+>[-]+++[<.>-]`
