@@ -13,7 +13,7 @@
 
 - Spaces or tabs: tabs, with a width of 2
 - Light or dark mode: light (using [my custom theme](https://github.com/mattfbacon/vscode-theme), a derivative of Noctis)
-- Preferred editor: NVim on the terminal, VS Code (with embedded Neovim extension!) on X11/Wayland
+- Preferred editor: NVim on the terminal, VSCodium (with embedded Neovim extension!) on X11/Wayland
 - OSS License: AGPL 3.0 or later (even for non-network-based projects, because why not)
 - Development OS: Arch Linux, with i3 or sway (tiling window managers rock!)
 - Keyboard Layout: Dvorak ([save your hands](http://dvorak-keyboards.com/)), MessagEase ([actually designed for a phone](http://www.exideas.com/ME/me_faq.html))
