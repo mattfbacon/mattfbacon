@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [BranhamChat](https://github.com/olexg/branham-chat), as well as a couple personal projects.
+- 🔭 I’m currently working on [shrubbery](https://github.com/mattfbacon/shrubbery).
 - 🌱 I’m currently learning the MessagEase keyboard layout on my phone.
 - 📚 I’m studying Japanese, German, Spanish, and Lojban. .i xu do se jbobau .i iu ko co'a irci la'o ibu #lojban ibu la liberas ja [la diskord](https://discord.gg/BVm4EYR)
 - 💬 Ask me about Linux, Rust, and the value of always learning new things.
