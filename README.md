@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [shrubbery](https://github.com/mattfbacon/shrubbery).
-- 🌱 I’m currently learning the MessagEase keyboard layout on my phone.
-- 📚 I’m studying Japanese, German, Spanish, and Lojban. .i xu do se jbobau .i iu ko co'a irci la'o ibu #lojban ibu la liberas .a [la diskord](https://discord.gg/BVm4EYR)
+- 🔭 I’m currently working on [sneturfahi](https://github.com/mattfbacon/sneturfahi).
+- 🌱 I’m currently learning chess.
+- 📚 I’m studying Japanese (not much recently), German (fairly consistently), Spanish (fluent/near-fluent, maintaining), and Lojban (fervently). .i xu do se jbobau .i iu ko co'a irci la'o ibu #lojban ibu la liberas .a [la diskord](https://discord.gg/BVm4EYR)
 - 💬 Ask me about Linux, Rust, and the value of always learning new things.
-- ️🌈 My <https://pronoun.is/he>
+- ️🌈 My <https://pronoun.is/he> but `they/them` is often simpler and easier.
 - ⚡ Fun fact: Microsoft Azure runs on Linux
 
 `++++++++++[>++++++++++<-]>+++.<+++[>--<-]>.<+++++[>+++++<-]>-.>++++[>++++++++<-]>.>++++++++++[>++++++++++<-]>---.+++++.<<+>[-]+++[<.>-]`
