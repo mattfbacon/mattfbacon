@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [pios](https://github.com/mattfbacon/pios).
+- 🔭 I’m currently working on [sordahe](https://github.com/mattfbacon/sordahe).
 - 🌱 I’m currently learning the Goldberg Variations on piano.
 - 📚 I’m studying Japanese (not much recently), German (fairly consistently), Spanish (fluent/near-fluent, maintaining), and Lojban (fervently). .i xu do se jbobau .i iu ko co'a irci la'o ibu #lojban ibu la liberas .a [la diskord](https://discord.gg/BVm4EYR)
 - 💬 Ask me about Linux, Rust, and the value of always learning new things.
