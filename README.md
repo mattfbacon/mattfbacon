@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [sordahe](https://github.com/mattfbacon/sordahe).
-- 🌱 I’m currently learning the Goldberg Variations on piano. , and stenotype
-- 📚 I’m studying Japanese (not much recently), German (fairly consistently), Spanish (fluent/near-fluent, maintaining), and Lojban (fervently). .i xu do se jbobau .i iu ko co'a irci la'o ibu #lojban ibu la liberas
+- 🔭 I’m currently working on [typst-bot](https://github.com/mattfbacon/typst-bot) and contributions to [Typst](https://github.com/typst/typst).
+- 🌱 I’m currently learning various Bach two-part inventions on piano.
+- 📚 I’m studying German (fairly consistently) and Lojban (fervently). .i xu do se jbobau .i iu ko co'a irci la'o ibu #lojban ibu la liberas
 - 💬 Ask me about Linux, Rust, and the value of always learning new things.
 - ️🌈 My pronouns are `he/him` but `they/them` is often simpler and easier.
 - ⚡ Fun fact: Microsoft Azure runs on Linux
