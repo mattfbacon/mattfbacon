@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [typst-bot](https://github.com/mattfbacon/typst-bot) and contributions to [Typst](https://github.com/typst/typst).
+- 🔭 I’m currently working on [rmox](https://github.com/mattfbacon/rmox), a programming/computing environment for the [reMarkable 2](https://remarkable.com/) based on a tiling window manager with a client-server model.
 - 🌱 I’m currently learning various Bach two-part inventions on piano.
 - 📚 I’m studying German (fairly consistently) and Lojban (fervently). .i xu do se jbobau .i iu ko co'a irci la'o ibu #lojban ibu la liberas
 - 💬 Ask me about Linux, Rust, and the value of always learning new things.
