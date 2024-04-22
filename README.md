@@ -12,7 +12,7 @@
 ### Quick Developer Questions:
 
 - Spaces or tabs: tabs, with a width of 2
-- Light or dark mode: light (using [My fork of sainnhe's Everforest](https://github.com/mattfbacon/neverforest) until I get around to making my own theme)
+- Light or dark mode: auto based on sunrise/sunset (using [My fork of sainnhe's Everforest](https://github.com/mattfbacon/neverforest) until I get around to making my own theme)
 - Preferred editor: NVim
 - OSS License: AGPL 3.0 or later (even for non-network-based projects, because why not), sometimes CC0/0BSD for small stuff
 - Development OS: Arch Linux, with sway (tiling window managers rock!)
