@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [rmox](https://github.com/mattfbacon/rmox), a programming/computing environment for the [reMarkable 2](https://remarkable.com/) based on a tiling window manager with a client-server model.
-- 🌱 I’m currently learning various Bach two-part inventions on piano.
+- 🔭 I’m currently working on building CalyxOS from source for my phone with some tweaks, and then contributing to some of the upstream packages like the system apps.
+- 🌱 I’m currently learning various Bach two-part inventions on harpsichord.
 - 📚 I’m studying German (fairly consistently) and Lojban (fervently). .i xu do se jbobau .i iu ko co'a irci la'o ibu #lojban ibu la liberas
 - 💬 Ask me about Linux, Rust, and the value of always learning new things.
 - ️🌈 My pronouns are `he/him` but `they/them` is often simpler and easier.
