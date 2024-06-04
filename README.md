@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building CalyxOS from source for my phone with some tweaks, and then contributing to some of the upstream packages like the system apps.
-- 🌱 I’m currently learning various Bach two-part inventions on harpsichord.
+- 🔭 I’m currently contributing to CalyxOS/AOSP as well as composing a fugue.
+- 🌱 I’m currently learning the Ricercar a 3 from The Musical Offering on harpsichord.
 - 📚 I’m studying German (fairly consistently) and Lojban (fervently). .i xu do se jbobau .i iu ko co'a irci la'o ibu #lojban ibu la liberas
 - 💬 Ask me about Linux, Rust, and the value of always learning new things.
-- ️🌈 My pronouns are `he/him` but `they/them` is often simpler and easier.
+- ️🌈 My pronouns are `they/he`.
 - ⚡ Fun fact: Microsoft Azure runs on Linux
-
-`++++++++++[>++++++++++<-]>+++.<+++[>--<-]>.<+++++[>+++++<-]>-.>++++[>++++++++<-]>.>++++++++++[>++++++++++<-]>---.+++++.<<+>[-]+++[<.>-]`
 
 ### Quick Developer Questions:
 
