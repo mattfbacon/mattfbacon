@@ -10,8 +10,8 @@
 ### Quick Developer Questions:
 
 - Spaces or tabs: tabs, with a width of 2
-- Light or dark mode: auto based on sunrise/sunset (using [My fork of sainnhe's Everforest](https://github.com/mattfbacon/neverforest) until I get around to making my own theme)
-- Preferred editor: NVim
+- Light or dark mode: auto based on sunrise/sunset (using One Light/Dark without syntax highlighting until I port noctis; [here's the theme JSON in my dotfiles repo](https://github.com/mattfbacon/dotfiles/tree/unified/shared/zed/.config/zed/themes/two.json))
+- Preferred editor: Zed, sometimes NVim
 - OSS License: AGPL 3.0 or later (even for non-network-based projects, because why not), sometimes CC0/0BSD for small stuff
 - Development OS: Arch Linux, with sway (tiling window managers rock!)
 - Keyboard Layout: Dvorak ([save your hands](http://dvorak-keyboards.com/)), MessagEase ([actually designed for a phone](http://www.exideas.com/ME/me_faq.html), [my implementation](https://github.com/mattfbacon/messagease-better)), learning stenotype ([my impl](https://github.com/mattfbacon/sordahe))
