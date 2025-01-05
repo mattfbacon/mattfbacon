@@ -1,4 +1,4 @@
-- Pronouns: they/he
+- Pronouns: they/he (they preferred online, he IRL and if you don't like singular they or to avoid ambiguity)
 - Indentation: tabs, with a width of 2
 - Light or dark mode: auto based on sunrise/sunset
 - Editor: Zed, sometimes NVim
